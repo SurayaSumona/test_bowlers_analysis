@@ -17,10 +17,11 @@ In this dataset, there have top bowlers who take almost wickets in their cricket
  * **10:** number of times this bowler has taken ten wickets in a match (over both innings of a test)
  
 # Goal of this project:
-* **Data Analysis** using with Python's different bulit-in libraries
+* **Data Analysis:** 
+* Using Python's different bulit-in libraries
 * Read different types of files with Pandas Dataframe (.csv file, .xlsx file, etc.)
-* **Data Manipulation** with Pandas
-* Creating and naming the new data frame
+**Data Manipulation:**
+* Creating and naming the new data frame in Pandas
 * Find the number of rows and columns in the dataframe
 * Find the data statistics of the dataset
 * Find the data types and missing values
