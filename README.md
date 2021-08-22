@@ -1,4 +1,4 @@
-# Data Analysis of Bowling records in test matches 
+# Data Analysis of Bowling records in Test matches 
 In this dataset, there have top bowlers who take almost wickets in their cricket career. Other features also evaluate a    player's performance throughout their career along with wickets. Here are the features we can work with:
 
  * **Player:** Player's name
